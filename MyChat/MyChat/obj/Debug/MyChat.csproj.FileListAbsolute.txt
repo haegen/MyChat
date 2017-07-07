@@ -1,0 +1,9 @@
+c:\users\timper\documents\visual studio 2015\Projects\MyChat\MyChat\bin\Debug\MyChat.exe.config
+c:\users\timper\documents\visual studio 2015\Projects\MyChat\MyChat\bin\Debug\MyChat.exe
+c:\users\timper\documents\visual studio 2015\Projects\MyChat\MyChat\bin\Debug\MyChat.pdb
+c:\users\timper\documents\visual studio 2015\Projects\MyChat\MyChat\obj\Debug\MyChat.csprojResolveAssemblyReference.cache
+c:\users\timper\documents\visual studio 2015\Projects\MyChat\MyChat\obj\Debug\MyChat.Form1.resources
+c:\users\timper\documents\visual studio 2015\Projects\MyChat\MyChat\obj\Debug\MyChat.Properties.Resources.resources
+c:\users\timper\documents\visual studio 2015\Projects\MyChat\MyChat\obj\Debug\MyChat.csproj.GenerateResource.Cache
+c:\users\timper\documents\visual studio 2015\Projects\MyChat\MyChat\obj\Debug\MyChat.exe
+c:\users\timper\documents\visual studio 2015\Projects\MyChat\MyChat\obj\Debug\MyChat.pdb
